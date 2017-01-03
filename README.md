@@ -1,6 +1,6 @@
 # D3 Block-a-Day: Day 3, January, 3rd 2017
 
-<a href="https://dbetebenner.github.io/D3_01032017/"><img src="https://gist.githubusercontent.com/dbetebenner/d3c628701651f9b6bbcc8ee829ac1ad6/raw/c00692e22fddb89e6620adc10e455c2d0d733fe8/thumbnail.png" align="left" hspace="12" vspace="0"></a>
+<a href="https://dbetebenner.github.io/D3_01032017/"><img src="https://gist.githubusercontent.com/dbetebenner/d3c628701651f9b6bbcc8ee829ac1ad6/raw/c00692e22fddb89e6620adc10e455c2d0d733fe8/thumbnail.png" align="left" hspace="12" vspace="20"></a>
 
 New Year's Resolution for 2017: Make a D3 Block a day to teach myself D3. This is Number 3. This example
 modifies the [line chart from January 2nd](https://github.com/dbetebenner/D3_01022017) and attempts to
